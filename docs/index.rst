@@ -20,4 +20,5 @@
    open_guide
    open_sdk
    open_api
+   open-web
 
